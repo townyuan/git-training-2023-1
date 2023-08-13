@@ -81,4 +81,8 @@ body {
 .container {
   max-width: 1296px;
   margin: 0 auto;
+}
+
+.test {
+  color: red;
 }/*# sourceMappingURL=all.css.map */
